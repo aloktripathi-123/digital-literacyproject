@@ -18,34 +18,62 @@ Description
 This project is created to demonstrate digital literacy skills such as creating an online portfolio, using GitHub, participating in online platforms, understanding email etiquette, and spreading awareness about cybercrime and online safety. The project includes multiple tasks and a final report.
 
 Project Structure
+
 digital-literacy-project/
 │
+
 ├── task-1-presentation/
+
 │ ├── Screenshot1.png
+
 │ ├── Screenshot2.png
+
 │ └── Screenshot3.png
+
 │
+
 ├── task-2-portfolio/
+
 │ ├── github-profile.png
+
 │ ├── kaggle-profile.png
+
 │ └── linkedin-profile.png
+
 │
+
 ├── task-3-platforms/
+
 │ ├── coding-problem.png
+
 │ ├── google-form.png
+
 │ └── responses-sheet.png
+
 │
+
 ├── task-4-email-etiquette/
+
 │ ├── email1.txt
+
 │ ├── email2.txt
+
 │ └── social-media-checklist.txt
+
 │
+
 ├── task-5-cybercrime/
+
 │ ├── casestudy.txt
+
 │ └── prevention-checklist.txt
+
 │
+
 └── report/
+
 └── Project Report.docx
+
 
 Task Details
 Task 1 – Presentation
